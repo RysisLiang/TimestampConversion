@@ -1,6 +1,5 @@
 # TimestampConversion | 基于Alfred3的时间戳与时间字符串转换
 
----
 
 ## 简介
 
@@ -56,3 +55,7 @@
 ## 使用的库和参考
 
 1. alfred.py - https://github.com/nikipore/alfred-python
+
+## License
+
+MIT ©
